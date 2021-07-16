@@ -89,7 +89,7 @@ pyls-black==0.4.7
 pyls-spyder==0.3.2
 pyparsing==2.4.7
 PyQt5==5.15.4
-PyQt5-sip==12.8.1
+PyQt5-sip==12.9.0
 PyQtWebEngine==5.12.1
 pyrsistent==0.17.3
 pytest==6.2.4
