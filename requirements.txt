@@ -28,7 +28,7 @@ diff-match-patch==20200713
 docutils==0.16
 entrypoints==0.3
 flake8==3.8.4
-idna==2.10
+idna==3.2
 imagesize==1.2.0
 importlib-metadata==3.10.0
 inflection==0.5.1
