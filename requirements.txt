@@ -86,7 +86,7 @@ pyflakes==2.2.0
 Pygments==2.9.0
 pylint==2.9.3
 pyls-black==0.4.7
-pyls-spyder==0.3.2
+pyls-spyder==0.4.0
 pyparsing==2.4.7
 PyQt5==5.15.4
 PyQt5-sip==12.9.0
