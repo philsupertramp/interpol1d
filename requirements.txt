@@ -140,6 +140,6 @@ wcwidth==0.2.5
 webencodings==0.5.1
 widgetsnbextension==3.5.1
 wrapt==1.12.1
-wurlitzer==2.1.0
+wurlitzer==2.1.1
 yapf==0.31.0
 zipp==3.5.0
