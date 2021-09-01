@@ -37,7 +37,7 @@ intervaltree==3.1.0
 ipykernel==6.3.1
 ipython==7.27.0
 ipython-genutils==0.2.0
-ipywidgets==7.6.3
+ipywidgets==7.6.4
 isort==5.9.3
 jedi==0.18.0
 jeepney==0.7.1
