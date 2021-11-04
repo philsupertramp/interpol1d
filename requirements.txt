@@ -78,7 +78,7 @@ prometheus-client==0.12.0
 prompt-toolkit==3.0.22
 psutil==5.8.0
 ptyprocess==0.7.0
-py==1.10.0
+py==1.11.0
 pycodestyle==2.8.0
 pycparser==2.20
 pydocstyle==6.1.1
