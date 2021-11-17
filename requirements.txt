@@ -39,7 +39,7 @@ ipython==7.29.0
 ipython-genutils==0.2.0
 ipywidgets==7.6.5
 isort==5.10.1
-jedi==0.18.0
+jedi==0.18.1
 jeepney==0.7.1
 Jinja2==3.0.3
 jinja2-time==0.2.0
