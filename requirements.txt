@@ -67,7 +67,7 @@ numpy==1.21.4
 numpydoc==1.1.0
 packaging==21.3
 pandocfilters==1.5.0
-parso==0.8.2
+parso==0.8.3
 pathspec==0.9.0
 pexpect==4.8.0
 pickleshare==0.7.5
