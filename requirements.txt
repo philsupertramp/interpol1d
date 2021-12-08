@@ -1,6 +1,6 @@
 alabaster==0.7.12
 appdirs==1.4.4
-argon2-cffi==21.1.0
+argon2-cffi==21.2.0
 arrow==1.2.1
 astroid==2.9.0
 async-generator==1.10
