@@ -139,7 +139,7 @@ watchdog==2.1.7
 wcwidth==0.2.5
 webencodings==0.5.1
 widgetsnbextension==3.6.0
-wrapt==1.14.0
+wrapt==1.14.1
 wurlitzer==3.0.2
 yapf==0.32.0
 zipp==3.8.0
