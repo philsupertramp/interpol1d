@@ -130,7 +130,7 @@ three-merge==0.1.1
 tinycss==0.4
 toml==0.10.2
 tornado==6.1
-traitlets==5.2.0
+traitlets==5.2.1.post0
 typed-ast==1.5.3
 typing-extensions==3.10.0.2
 ujson==4.3.0
