@@ -131,7 +131,7 @@ tinycss==0.4
 toml==0.10.2
 tornado==6.1
 traitlets==5.2.1.post0
-typed-ast==1.5.3
+typed-ast==1.5.4
 typing-extensions==3.10.0.2
 ujson==4.3.0
 urllib3==1.26.9
