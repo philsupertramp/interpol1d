@@ -50,7 +50,7 @@ jupyter-console==6.4.3
 jupyter-core==4.10.0
 jupyterlab-pygments==0.2.2
 jupyterlab-widgets==1.1.0
-keyring==23.5.0
+keyring==23.5.1
 kiwisolver==1.4.2
 lazy-object-proxy==1.7.1
 MarkupSafe==2.1.1
