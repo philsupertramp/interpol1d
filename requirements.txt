@@ -103,7 +103,7 @@ pyzmq==22.3.0
 QDarkStyle==3.1
 qstylizer==0.2.1
 QtAwesome==1.1.1
-qtconsole==5.3.0
+qtconsole==5.3.1
 QtPy==1.11.3
 regex==2021.11.10
 requests==2.27.1
