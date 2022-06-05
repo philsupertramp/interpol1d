@@ -104,7 +104,7 @@ QDarkStyle==3.1
 qstylizer==0.2.1
 QtAwesome==1.1.1
 qtconsole==5.3.1
-QtPy==1.11.3
+QtPy==2.1.0
 regex==2021.11.10
 requests==2.27.1
 rope==0.23.0
