@@ -4,7 +4,7 @@ argon2-cffi==21.3.0
 arrow==1.2.2
 astroid==2.11.6
 async-generator==1.10
-atomicwrites==1.4.0
+atomicwrites==1.4.1
 attrs==21.4.0
 autopep8==1.6.0
 Babel==2.10.3
