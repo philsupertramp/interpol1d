@@ -102,7 +102,7 @@ pyxdg==0.28
 pyzmq==22.3.0
 QDarkStyle==3.1
 qstylizer==0.2.2
-QtAwesome==1.2.0
+QtAwesome==1.2.1
 qtconsole==5.3.2
 QtPy==1.11.3
 regex==2021.11.10
