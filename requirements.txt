@@ -75,7 +75,7 @@ Pillow==8.4.0
 pluggy==1.0.0
 poyo==0.5.0
 prometheus-client==0.15.0
-prompt-toolkit==3.0.32
+prompt-toolkit==3.0.33
 psutil==5.9.4
 ptyprocess==0.7.0
 py==1.11.0
