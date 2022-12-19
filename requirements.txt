@@ -34,7 +34,7 @@ importlib-metadata==4.13.0
 inflection==0.5.1
 iniconfig==1.1.1
 intervaltree==3.1.0
-ipykernel==6.19.2
+ipykernel==6.19.3
 ipython==7.34.0
 ipython-genutils==0.2.0
 ipywidgets==7.7.2
