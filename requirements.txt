@@ -52,7 +52,7 @@ jupyterlab-pygments==0.2.2
 jupyterlab-widgets==1.1.1
 keyring==23.13.1
 kiwisolver==1.4.4
-lazy-object-proxy==1.8.0
+lazy-object-proxy==1.9.0
 MarkupSafe==2.1.1
 matplotlib==3.6.2
 mccabe==0.7.0
