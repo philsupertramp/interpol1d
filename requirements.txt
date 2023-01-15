@@ -136,7 +136,7 @@ typing-extensions==3.10.0.2
 ujson==4.3.0
 urllib3==1.26.14
 watchdog==2.2.1
-wcwidth==0.2.5
+wcwidth==0.2.6
 webencodings==0.5.1
 widgetsnbextension==3.6.1
 wrapt==1.14.1
