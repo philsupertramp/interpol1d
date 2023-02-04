@@ -57,7 +57,7 @@ MarkupSafe==2.1.2
 matplotlib==3.6.3
 mccabe==0.7.0
 mistune==0.8.4
-mypy-extensions==0.4.3
+mypy-extensions==0.4.4
 nbclient==0.7.2
 nbconvert==6.5.4
 nbformat==5.7.3
