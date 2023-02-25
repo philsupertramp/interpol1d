@@ -142,4 +142,4 @@ widgetsnbextension==3.6.2
 wrapt==1.14.1
 wurlitzer==3.0.3
 yapf==0.32.0
-zipp==3.14.0
+zipp==3.15.0
