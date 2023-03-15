@@ -32,7 +32,7 @@ idna==3.4
 imagesize==1.4.1
 importlib-metadata==4.13.0
 inflection==0.5.1
-iniconfig==1.1.1
+iniconfig==2.0.0
 intervaltree==3.1.0
 ipykernel==6.21.3
 ipython==7.34.0
