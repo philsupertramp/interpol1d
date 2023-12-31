@@ -92,7 +92,7 @@ PyQt5==5.15.9
 PyQt5-sip==12.11.1
 PyQtWebEngine==5.15.6
 pyrsistent==0.19.3
-pytest==6.2.5
+pytest==7.4.4
 python-dateutil==2.8.2
 python-jsonrpc-server==0.4.0
 python-language-server==0.36.2
