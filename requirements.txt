@@ -138,7 +138,7 @@ urllib3==1.26.15
 watchdog==2.3.1
 wcwidth==0.2.6
 webencodings==0.5.1
-widgetsnbextension==3.6.2
+widgetsnbextension==4.0.13
 wrapt==1.15.0
 wurlitzer==3.0.3
 yapf==0.32.0
