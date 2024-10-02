@@ -35,7 +35,7 @@ inflection==0.5.1
 iniconfig==1.1.1
 intervaltree==3.1.0
 ipykernel==6.21.3
-ipython==7.34.0
+ipython==8.28.0
 ipython-genutils==0.2.0
 ipywidgets==7.7.3
 isort==5.12.0
