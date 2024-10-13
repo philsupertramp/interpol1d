@@ -87,7 +87,7 @@ Pygments==2.14.0
 pylint==2.17.0
 pyls-black==0.4.7
 pyls-spyder==0.4.0
-pyparsing==2.4.7
+pyparsing==3.2.0
 PyQt5==5.15.9
 PyQt5-sip==12.11.1
 PyQtWebEngine==5.15.6
